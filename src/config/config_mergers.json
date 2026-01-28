@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2021-03-01",
+    "oldTicker": "RLOG3",
+    "newTicker": "CSAN3",
+    "ratio": 0.253807
+  },
+  {
+    "date": "2023-04-28",
+    "oldTicker": "PARD3",
+    "newTicker": "FLRY3",
+    "ratio": 1.2135
+  },
+  {
+    "date": "2023-08-02",
+    "oldTicker": "MGCR11",
+    "newTicker": "VGHF11",
+    "ratio": 0.1060115099
+  },
+   {
+    "date": "2024-10-18",
+"oldTicker": "BCFF11",
+    "newTicker": "BTHF11",
+    "ratio": 1.2499238552
+  },
+  {
+    "date": "2024-06-03",
+    "oldTicker": "MORC11",
+    "newTicker": "PSEC11",
+    "ratio": 1
+  }
+]

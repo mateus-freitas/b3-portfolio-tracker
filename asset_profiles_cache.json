@@ -1,0 +1,738 @@
+{
+  "BBDC3.SA": {
+    "ticker": "BBDC3.SA",
+    "name": "Banco Bradesco S.A.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "VBBR3.SA": {
+    "ticker": "VBBR3.SA",
+    "name": "Vibra Energia S.A.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "XPML11.SA": {
+    "ticker": "XPML11.SA",
+    "name": "Xp Malls Fundo Investimentos Imobiliarios",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "VALE3.SA": {
+    "ticker": "VALE3.SA",
+    "name": "Vale S.A.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "AGRO3.SA": {
+    "ticker": "AGRO3.SA",
+    "name": "BrasilAgro - Companhia Brasileira de Propriedades Agrícolas",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "BTLG11.SA": {
+    "ticker": "BTLG11.SA",
+    "name": "BTG Pactual Logística Fundo de Investimento Imobiliário",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "BTRA11.SA": {
+    "ticker": "BTRA11.SA",
+    "name": "Fundo De Investimento Imobiliario Btg Pactual Terras Agricolas",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "CSMG3.SA": {
+    "ticker": "CSMG3.SA",
+    "name": "Companhia de Saneamento de Minas Gerais",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Water",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "EMBJ3.SA": {
+    "ticker": "EMBJ3.SA",
+    "name": "Embraer S.A.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "GARE11.SA": {
+    "ticker": "GARE11.SA",
+    "name": "Guardian Logistica Fundo De Investimento Imobiliario",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "HGBS11.SA": {
+    "ticker": "HGBS11.SA",
+    "name": "HEDGE Brasil Shopping Fundo de Investimento Imobiliário",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "HSML11.SA": {
+    "ticker": "HSML11.SA",
+    "name": "Hsi Malls Fundo De Investimento Imobiliario",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "JSRE11.SA": {
+    "ticker": "JSRE11.SA",
+    "name": "JS Real Estate multigestão - FII fund",
+    "sector": "Financial",
+    "industry": "REIT - Diversified",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "LVBI11.SA": {
+    "ticker": "LVBI11.SA",
+    "name": "Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "MDIA3.SA": {
+    "ticker": "MDIA3.SA",
+    "name": "M. Dias Branco S.A. Indústria e Comércio de Alimentos",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "MTSA4.SA": {
+    "ticker": "MTSA4.SA",
+    "name": "METISA Metalúrgica Timboense S.A.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "POMO3.SA": {
+    "ticker": "POMO3.SA",
+    "name": "Marcopolo S.A.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SAPR3.SA": {
+    "ticker": "SAPR3.SA",
+    "name": "Companhia de Saneamento do Paraná - SANEPAR",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Water",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SBSP3.SA": {
+    "ticker": "SBSP3.SA",
+    "name": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Water",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SLCE3.SA": {
+    "ticker": "SLCE3.SA",
+    "name": "SLC Agrícola S.A.",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SMTO3.SA": {
+    "ticker": "SMTO3.SA",
+    "name": "São Martinho S.A.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SOJA3.SA": {
+    "ticker": "SOJA3.SA",
+    "name": "Boa Safra Sementes S.A.",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "TRBL11.SA": {
+    "ticker": "TRBL11.SA",
+    "name": "SDI Logística Rio - Fundo de Investimento Imobiliário - FII",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "VINO11.SA": {
+    "ticker": "VINO11.SA",
+    "name": "Vinci Corporate Fundo De Investimento Imobiliario",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "VISC11.SA": {
+    "ticker": "VISC11.SA",
+    "name": "Vinci Shopping Centers Fundo Investimento Imobiliario - Fii",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "WEGE3.SA": {
+    "ticker": "WEGE3.SA",
+    "name": "WEG S.A.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "XPLG11.SA": {
+    "ticker": "XPLG11.SA",
+    "name": "Xp Log Fundo Investimento Imobiliario FII",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "ALUP11F.SA": {
+    "ticker": "ALUP11F.SA",
+    "name": "ALUP11F.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "BLAU3.SA": {
+    "ticker": "BLAU3.SA",
+    "name": "Blau Farmacêutica S.A.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "CAML3.SA": {
+    "ticker": "CAML3.SA",
+    "name": "Camil Alimentos S.A.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "CPFE3.SA": {
+    "ticker": "CPFE3.SA",
+    "name": "CPFL Energia S.A.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "DXCO3.SA": {
+    "ticker": "DXCO3.SA",
+    "name": "Dexco S.A.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "EGIE3.SA": {
+    "ticker": "EGIE3.SA",
+    "name": "Engie Brasil Energia S.A.",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "FESA3.SA": {
+    "ticker": "FESA3.SA",
+    "name": "Cia de Ferro Ligas da Bahia S.A. - FERBASA",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "FIQE3.SA": {
+    "ticker": "FIQE3.SA",
+    "name": "Unifique Telecomunicações S.A.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "RAIL3.SA": {
+    "ticker": "RAIL3.SA",
+    "name": "Rumo S.A.",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "ROMI3.SA": {
+    "ticker": "ROMI3.SA",
+    "name": "Romi S.A.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "TIMS3.SA": {
+    "ticker": "TIMS3.SA",
+    "name": "TIM S.A.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "ABEV3.SA": {
+    "ticker": "ABEV3.SA",
+    "name": "Ambev S.A.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "BBAS3.SA": {
+    "ticker": "BBAS3.SA",
+    "name": "Banco do Brasil S.A.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "ETER3.SA": {
+    "ticker": "ETER3.SA",
+    "name": "Eternit S.A.",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "EUCA3.SA": {
+    "ticker": "EUCA3.SA",
+    "name": "Eucatex S.A. Indústria e Comércio",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "FLRY3.SA": {
+    "ticker": "FLRY3.SA",
+    "name": "Fleury S.A.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "GGBR3.SA": {
+    "ticker": "GGBR3.SA",
+    "name": "Gerdau S.A.",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "GOAU4.SA": {
+    "ticker": "GOAU4.SA",
+    "name": "Metalurgica Gerdau S.A.",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "JHSF3.SA": {
+    "ticker": "JHSF3.SA",
+    "name": "JHSF Participações S.A.",
+    "sector": "Real Estate",
+    "industry": "Real Estate - Development",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "KEPL3.SA": {
+    "ticker": "KEPL3.SA",
+    "name": "Kepler Weber S.A.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PETR3.SA": {
+    "ticker": "PETR3.SA",
+    "name": "Petróleo Brasileiro S.A. - Petrobras",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PVBI11.SA": {
+    "ticker": "PVBI11.SA",
+    "name": "Fundo De Investimento ImobiliarRio Vbi Prime Properties",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "QAGR11.SA": {
+    "ticker": "QAGR11.SA",
+    "name": "QAGR11.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "FII"
+  },
+  "RAPT4.SA": {
+    "ticker": "RAPT4.SA",
+    "name": "Randoncorp S.A.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "RCRB11.SA": {
+    "ticker": "RCRB11.SA",
+    "name": "Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "SANB3.SA": {
+    "ticker": "SANB3.SA",
+    "name": "Banco Santander (Brasil) S.A.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "TAEE3.SA": {
+    "ticker": "TAEE3.SA",
+    "name": "Transmissora Aliança de Energia Elétrica S.A.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "TASA3.SA": {
+    "ticker": "TASA3.SA",
+    "name": "Taurus Armas S.A.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "VILG11.SA": {
+    "ticker": "VILG11.SA",
+    "name": "Vinci Logistica Fundo Investimento Imobiliario FII",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "CSAN3.SA": {
+    "ticker": "CSAN3.SA",
+    "name": "Cosan S.A.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "EQTL3.SA": {
+    "ticker": "EQTL3.SA",
+    "name": "Equatorial S.A.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "ITUB3.SA": {
+    "ticker": "ITUB3.SA",
+    "name": "Itaú Unibanco Holding S.A.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "LREN3.SA": {
+    "ticker": "LREN3.SA",
+    "name": "Lojas Renner S.A.",
+    "sector": "Consumer Cyclical",
+    "industry": "Department Stores",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "MOVI3.SA": {
+    "ticker": "MOVI3.SA",
+    "name": "Movida Participações S.A.",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "ODPV3.SA": {
+    "ticker": "ODPV3.SA",
+    "name": "Odontoprev S.A.",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PFRM3.SA": {
+    "ticker": "PFRM3.SA",
+    "name": "Profarma Distribuidora de Produtos Farmacêuticos S.A.",
+    "sector": "Healthcare",
+    "industry": "Medical Distribution",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PGMN3.SA": {
+    "ticker": "PGMN3.SA",
+    "name": "Empreendimentos Pague Menos S.A.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceutical Retailers",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PNVL3.SA": {
+    "ticker": "PNVL3.SA",
+    "name": "Dimed S.A. Distribuidora de Medicamentos",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PRIO3.SA": {
+    "ticker": "PRIO3.SA",
+    "name": "Prio S.A.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "PSSA3.SA": {
+    "ticker": "PSSA3.SA",
+    "name": "Porto Seguro S.A.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "QUAL3.SA": {
+    "ticker": "QUAL3.SA",
+    "name": "Qualicorp Consultoria e Corretora de Seguros S.A.",
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "RADL3.SA": {
+    "ticker": "RADL3.SA",
+    "name": "Raia Drogasil S.A.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceutical Retailers",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "RDOR3.SA": {
+    "ticker": "RDOR3.SA",
+    "name": "Rede D'Or São Luiz S.A.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "RENT3.SA": {
+    "ticker": "RENT3.SA",
+    "name": "Localiza Rent a Car S.A.",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "ENBR3.SA": {
+    "ticker": "ENBR3.SA",
+    "name": "ENBR3.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "STOCK"
+  },
+  "PARD3.SA": {
+    "ticker": "PARD3.SA",
+    "name": "PARD3.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "STOCK"
+  },
+  "SDIL11.SA": {
+    "ticker": "SDIL11.SA",
+    "name": "SDI Logística Rio - Fundo de Investimento Imobiliário - FII",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "MUTUALFUND",
+    "assetClass": "FII"
+  },
+  "BCFF11.SA": {
+    "ticker": "BCFF11.SA",
+    "name": "BCFF11.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "FII"
+  },
+  "CVBI11.SA": {
+    "ticker": "CVBI11.SA",
+    "name": "CVBI11.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "FII"
+  },
+  "KNCR11.SA": {
+    "ticker": "KNCR11.SA",
+    "name": "Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII",
+    "sector": "Real Estate",
+    "industry": "REIT - Mortgage",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "MGCR11.SA": {
+    "ticker": "MGCR11.SA",
+    "name": "FII Mogno Cri High Grade",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "MUTUALFUND",
+    "assetClass": "FII"
+  },
+  "MORC11.SA": {
+    "ticker": "MORC11.SA",
+    "name": "More Recebiveis Imobiliarios FII Fundo De Investimento Imobiliario",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "OUJP11.SA": {
+    "ticker": "OUJP11.SA",
+    "name": "Ourinvest Jpp Fundo Investimento Imobiliario - Fii",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "RBRY11.SA": {
+    "ticker": "RBRY11.SA",
+    "name": "Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "BRAP3.SA": {
+    "ticker": "BRAP3.SA",
+    "name": "Bradespar S.A.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SQIA3.SA": {
+    "ticker": "SQIA3.SA",
+    "name": "SQIA3.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "STOCK"
+  },
+  "RLOG3.SA": {
+    "ticker": "RLOG3.SA",
+    "name": "RLOG3.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "STOCK"
+  },
+  "SULA11F.SA": {
+    "ticker": "SULA11F.SA",
+    "name": "SULA11F.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "STOCK"
+  },
+  "BBDC4.SA": {
+    "ticker": "BBDC4.SA",
+    "name": "Banco Bradesco S.A.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "BIDI11F.SA": {
+    "ticker": "BIDI11F.SA",
+    "name": "BIDI11F.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "STOCK"
+  },
+  "ALUP11.SA": {
+    "ticker": "ALUP11.SA",
+    "name": "Alupar Investimento S.A.",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "quoteType": "EQUITY",
+    "assetClass": "STOCK"
+  },
+  "SULA11.SA": {
+    "ticker": "SULA11.SA",
+    "name": "SULA11.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "FII"
+  },
+  "BIDI11.SA": {
+    "ticker": "BIDI11.SA",
+    "name": "BIDI11.SA",
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "quoteType": "Unknown",
+    "assetClass": "FII"
+  },
+  "PLAG11.SA": {
+    "ticker": "PLAG11.SA",
+    "name": "Vbi Agro - Fundo De Investimento Imobiliario",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  },
+  "PCIP11.SA": {
+    "ticker": "PCIP11.SA",
+    "name": "Fundo De Investimento Imobiliario VBI Credito",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "quoteType": "EQUITY",
+    "assetClass": "FII"
+  }
+}
