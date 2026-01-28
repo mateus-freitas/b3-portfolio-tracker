@@ -8,7 +8,9 @@ Unlike static trackers, this tool handles the complexity of the Brazilian market
 
 - **Smart Ledger Engine:** Injects synthetic "Split" and "Merger" rows into your history to ensure 100% quantity accuracy.
 - **Yahoo Finance Integration:** Automatic metadata enrichment (Sectors, Industries, and Names).
-- **Interactive Simulator:** A persistent "What-If" calculator in Google Sheets to test new purchases.
+- **Automatic Enrichment:** Categorizes assets by Sector, Industry, and Name.
+- **Interactive Simulator:** Includes a custom Google Sheets "What-If" calculator to simulate new purchases and see projected sector allocations.
+- **Wipe & Rebuild Strategy:** Ensures data integrity by rebuilding the portfolio from raw inputs every run, preventing duplicate transaction errors.
 - **Community Configs:** Built-in handling for common B3 events (e.g., BIDI11 migration, ENBR3/SQIA3 delistings, RLOG/PARD mergers).
 
 ## 🛠 Project Structure & Inputs
@@ -29,18 +31,26 @@ The system merges three data sources:
 3.  **Yahoo Finance API:**
     - Used for real-time prices and historical splits.
 
+## 📋 Prerequisites
+
+- **Node.js** (v18 or higher)
+- **Google Cloud Project:** You need a Service Account to write to Google Sheets.
+- **Google Sheet ID:** Create a blank sheet and grab the ID from the URL.
+
 ## ⚙️ Setup & Installation
 
 1.  **Clone & Install:**
 
     ```bash
     git clone https://github.com/mateus-freitas/b3-portfolio-tracker.git
+    cd b3-portfolio-tracker
     npm install
     ```
 
 2.  **Google Cloud Setup:**
-    - Create a Service Account in the [Google Cloud Console](https://console.cloud.google.com/).
-    - Download the JSON Key and share your Google Sheet with the `client_email` found in the key.
+    - Go to [Google Cloud Console](https://console.cloud.google.com/).
+    - Create a Service Account and download the **JSON Key**.
+    - Open your Google Sheet and **Share** it with the `client_email` found in that JSON.
 
 3.  **Environment Variables:**
     Create a `.env` file in the root:
