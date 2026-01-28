@@ -34,7 +34,7 @@ The system merges three data sources:
 1.  **Clone & Install:**
 
     ```bash
-    git clone https://github.com/your-username/b3-portfolio-tracker.git
+    git clone https://github.com/mateus-freitas/b3-portfolio-tracker.git
     npm install
     ```
 
